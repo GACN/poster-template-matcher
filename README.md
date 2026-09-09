@@ -16,6 +16,7 @@ Skill 会先分析图片，再读取350条索引，按构图和信息层级匹�
 
 - `skills/poster-template-matcher/SKILL.md`：可安装的 Hermes Skill
 - `data/350_visual_templates.jsonl`：350条结构化识别索引
+- `scripts/validate_catalog.py`：索引完整性检查
 - GitHub Release：350张模板原图分卷包
 - `SOURCE-NOTICE.md`：原始仓库来源和再整理说明
 
